@@ -15,3 +15,6 @@ pensamiento lógico, estructurado, resiliente.
 EL 50% restante, se devide en pensamiento lógico (si o si necesario como desarrollador, aunque aveces se olvide de apagar el swtich), estructurado y ordenado con la cantidad suficiente de mentalidad ágil y resiliente ante cualquier problema.
 
 ¿Tú que opinas?
+
+*Lo más importante de un desarrollador de software es su salud*
+***Carlo Gilmar***
