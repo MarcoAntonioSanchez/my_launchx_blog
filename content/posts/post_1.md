@@ -1,5 +1,5 @@
 ---
-title: "Recapitulación - LaunchX"
+title: "Mi ruta de aprendizaje"
 date: 2022-04-05
 description: 'Mi experiencia en LaunchX hasta ahora...'
 ---
