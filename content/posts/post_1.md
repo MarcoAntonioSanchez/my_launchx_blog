@@ -1,5 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Recapitulación - LaunchX"
 date: 2022-04-05
 description: 'Mi experiencia en LaunchX hasta ahora...'
 ---
@@ -51,6 +51,14 @@ a manera de práctica así que me puse manos a la obra y el resultado diría yo 
 Para la 4ta práctica el MC Rodrigo se volo la barda, nos enseño a programar nuestro propio Pokedex! (si así es, como el de Pokemon) y debo agregar que no fui
 el único al que le encanto la idea, ya que casi a la mayoría de los explorer les emociono esta práctica devido a la tematica.
 Comenzamos maquetando lo inputs sobre los que funcionaría la búsqueda del pokemon que uno quisiera ver en pantalla y para eso también Rodrigo nos presento y enseño
-a consultar una API o mejor dicho LA POKEAPI...
+a consultar una API o mejor dicho LA POKEAPI, con la cual consultamos los datos en un arreglo multidimensional para mostrar la imagen del pokemon búscado vía input.
+Los pluses de esta práctica incluian un diseño responsivo y la opción de obtener aún más datos para mostrarlos en la consulta como habilidades o estadisticas del pokemon.
+
+Para la 4ta práctica Rodrigo nos enseño primero a inicializar un proyecto de Vue con Vuex, y la práctica se trato de pasar el modelo de pastelería de la primer práctica a un proyecto de Vue con Vuex, haciendo uso de los componentes y la syntaxis de Vue.
+
+Debido al poco tiempo obtenido solo pudimos prácticar durante los live codes los últimos temas sobre de la misión front-end, que fueron: Conceptos básicos e inicialización de un proyecto Angular, configuración y despliegue de una aplicación web hacía Azure con uso de sus recursos disponibles en las cuentas que tenemos por parte de Innovacción Virtual.
+
+Una mención especial para el MC Rodrigo, ya que cubrio por completo un poco sobre todos y cada uno de los temas referentes al desarrollo web front-end y un poco sobre back-end también!, me llevo como una gran lección la filosofía tan buena onda del MC Rodrigo, nunca nos permitio que el estres nos dominara y nos enseño aparte de todo el como controlar esa emoción tan fuerte que bien podría haber agoviado de más a todos los explorers.
+Muchas gracias por todo MC Rodrigo, mi maxima admiración y respeto para ti.
 
 CONTINUARA...
