@@ -16,5 +16,5 @@ EL 50% restante, se devide en pensamiento lógico (si o si necesario como desarr
 
 ¿Tú que opinas?
 
-*Lo más importante de un desarrollador de software es su salud*
+> *Lo más importante de un desarrollador de software es su salud*
 ***Carlo Gilmar***
